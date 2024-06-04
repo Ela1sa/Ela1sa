@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: 
+
 - ⚡ Fun fact: ...
 
 ![](https://media.tenor.com/BBp2XL-y8dIAAAAM/kuromi.gif)
@@ -11,3 +11,4 @@
 Ela1sa/Ela1sa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![image](https://github.com/Ela1sa/Ela1sa/assets/171078338/3fec8956-8271-4f3b-a614-3c8fca3bad20)
