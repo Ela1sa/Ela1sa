@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ela1sa
 - 👀 I’m interested in criação de jogos 👾🕹️🎮
 - 🌱 I’m currently learning programação 🧩
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... criar 
 - 📫 How to reach me ...  Não entre ❤️
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...shhhh
 
 ![](https://media.tenor.com/BBp2XL-y8dIAAAAM/kuromi.gif)
 <!---
