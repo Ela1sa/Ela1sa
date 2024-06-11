@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ela1sa
 - 👀 I’m interested in criação de jogos 👾🕹️🎮
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning programação 🧩
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...  Não entre ❤️
 
