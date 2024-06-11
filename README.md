@@ -2,7 +2,7 @@
 - 👀 I’m interested in criação de jogos 👾🕹️🎮
 - 🌱 I’m currently learning programação 🧩
 - 💞️ I’m looking to collaborate on ... criar 
-- 📫 How to reach me ...  Não entre ❤️
+- 📫 How to reach me ...  Não ❤️
 
 - ⚡ Fun fact: ...shhhh
 
